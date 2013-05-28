@@ -9,6 +9,7 @@
 /dist
 /local.cfg
 /*.egg-info
+*.egg
 /.installed.cfg
 *.pyc
 /.Python
